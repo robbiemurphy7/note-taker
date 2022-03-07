@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Purpose
-The Note Taker application provides a user the ability to
+The Note Taker application provides a user with the ability to write and save notes utilzing the awesome power of Express.js on the back end.
 
 ## Built With
 * HTML
